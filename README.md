@@ -1,2 +1,2 @@
 # Solar-Website-Project
-Basic outline of 
+Basic outline of the project
